@@ -1,0 +1,4 @@
+REVERSE_DOMAIN=com.dcycle.cordovastarterkit
+# Use Camel case, no spaces, for example HelloWorld, not "Hello World"
+HUMAN_READABLE=DcycleCordovaStarterkit
+URL_TO_WRAP=https://blog.dcycle.com
